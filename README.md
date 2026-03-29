@@ -50,8 +50,9 @@ The robot is designed with:
 ![Robot Front](images/freecad_parts_combined.png)
 ![Robot Top](images/robot_final_form.jpg)
 
-## 📄 Documentation
-Full thesis available in `/docs`
+## 📄 License
+
+This project is for academic and educational purposes.
 
 ## 👨‍💻 Author
 Muhammad Syahmi Bin Mohd Shukri 
