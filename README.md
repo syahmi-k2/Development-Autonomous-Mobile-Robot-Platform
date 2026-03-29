@@ -50,14 +50,10 @@ The robot is designed with:
 ![Robot Front](images/freecad_parts_combined.png)
 ![Robot Top](images/robot_final_form.jpg)
 
-## 🚀 Future Improvements
-- Improve mechanical wheel design
-- Add IoT control via mobile app
-- Implement SLAM or advanced navigation
-
 ## 📄 Documentation
 Full thesis available in `/docs`
 
 ## 👨‍💻 Author
-**Muhammad Syahmi Bin Mohd Shukri**
+Muhammad Syahmi Bin Mohd Shukri 
+
 Bachelor of Electronic Engineering Technology
