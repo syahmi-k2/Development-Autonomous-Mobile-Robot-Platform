@@ -8,14 +8,10 @@ The robot is designed with:
 - Compact 3D-printed structure
 - Autonomous navigation capability
 
----
-
 ## 🎯 Objectives
 - Design a compact robot with easy battery access
 - Develop movement control algorithm
 - Implement obstacle avoidance system
-
----
 
 ## ⚙️ Hardware Components
 - ESP32 Microcontroller
@@ -27,15 +23,11 @@ The robot is designed with:
 - 18650 Li-ion Batteries
 - TP4056 Charging Module
 
----
-
 ## 🧠 System Architecture
 - Sensors detect obstacles (distance measurement)
 - ESP32 processes input
 - Motor driver controls movement
 - Servo rotates laser sensor for scanning
-
----
 
 ## 🔄 Robot Behavior
 1. Move forward by default
@@ -44,38 +36,26 @@ The robot is designed with:
 4. Scan left and right using servo
 5. Move towards direction with more space
 
----
-
 ## 📊 Results
 - Ultrasonic sensor loses accuracy at longer distances
 - Laser sensor provides more stable readings
 - Robot successfully performs obstacle avoidance
-
----
 
 ## 🛠️ Software Used
 - Arduino IDE
 - FreeCAD
 - Fritzing
 
----
-
 ## 📸 Project Images
 (Add your robot images here)
-
----
 
 ## 🚀 Future Improvements
 - Improve mechanical wheel design
 - Add IoT control via mobile app
 - Implement SLAM or advanced navigation
 
----
-
 ## 📄 Documentation
 Full thesis available in `/docs`
-
----
 
 ## 👨‍💻 Author
 **Muhammad Syahmi Bin Mohd Shukri**
