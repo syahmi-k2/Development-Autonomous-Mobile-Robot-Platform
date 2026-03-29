@@ -47,7 +47,8 @@ The robot is designed with:
 - Fritzing
 
 ## 📸 Project Images
-(Add your robot images here)
+![Robot Front](images/freecad_parts_combined.png)
+![Robot Top](images/robot_final_form.jpg)
 
 ## 🚀 Future Improvements
 - Improve mechanical wheel design
