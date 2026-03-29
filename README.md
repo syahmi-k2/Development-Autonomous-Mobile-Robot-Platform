@@ -1,5 +1,82 @@
-###  Development of an Autonomous Mobile Robot Platform
+# 🤖 Autonomous Mobile Robot Platform
 
-This project involves the development of an autonomous mobile robot platform, featuring a custom body designed in CAD and fabricated via 3D printing. By integrating essential electronic components directly into the printed chassis, the robot is powered by a navigation script that enables basic obstacle avoidance behaviors.
+## 📌 Overview
+This project focuses on the development of an **autonomous mobile robot** capable of obstacle avoidance using sensors and microcontroller-based control.
 
- Tools and Technologies
+The robot is designed with:
+- User-friendly battery access
+- Compact 3D-printed structure
+- Autonomous navigation capability
+
+---
+
+## 🎯 Objectives
+- Design a compact robot with easy battery access
+- Develop movement control algorithm
+- Implement obstacle avoidance system
+
+---
+
+## ⚙️ Hardware Components
+- ESP32 Microcontroller
+- Ultrasonic Sensor (HC-SR04)
+- Laser Sensor (VL53L0X)
+- Servo Motor
+- MX1508 Motor Driver
+- N20 Gear Motors
+- 18650 Li-ion Batteries
+- TP4056 Charging Module
+
+---
+
+## 🧠 System Architecture
+- Sensors detect obstacles (distance measurement)
+- ESP32 processes input
+- Motor driver controls movement
+- Servo rotates laser sensor for scanning
+
+---
+
+## 🔄 Robot Behavior
+1. Move forward by default
+2. Detect obstacle using sensors
+3. Stop when obstacle is too close
+4. Scan left and right using servo
+5. Move towards direction with more space
+
+---
+
+## 📊 Results
+- Ultrasonic sensor loses accuracy at longer distances
+- Laser sensor provides more stable readings
+- Robot successfully performs obstacle avoidance
+
+---
+
+## 🛠️ Software Used
+- Arduino IDE
+- FreeCAD
+- Fritzing
+
+---
+
+## 📸 Project Images
+(Add your robot images here)
+
+---
+
+## 🚀 Future Improvements
+- Improve mechanical wheel design
+- Add IoT control via mobile app
+- Implement SLAM or advanced navigation
+
+---
+
+## 📄 Documentation
+Full thesis available in `/docs`
+
+---
+
+## 👨‍💻 Author
+**Muhammad Syahmi Bin Mohd Shukri**
+Bachelor of Electronic Engineering Technology
