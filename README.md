@@ -58,3 +58,15 @@ This project is for academic and educational purposes.
 Muhammad Syahmi Bin Mohd Shukri 
 
 Bachelor of Electronic Engineering Technology
+
+## 🙏 Credits & Acknowledgements
+
+The base robot chassis design was adapted from an open-source project:
+
+- Design by: tristomietitoredeituit  
+- Source: https://www.thingiverse.com
+
+Modifications were made to:
+- Improve battery placement for easier access  
+- Adjust mounting for ESP32 and sensors  
+- Optimize overall compact design  
