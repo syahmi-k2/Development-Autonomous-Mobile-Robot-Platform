@@ -57,8 +57,6 @@ This project is for academic and educational purposes.
 ## 👨‍💻 Author
 Muhammad Syahmi Bin Mohd Shukri 
 
-Bachelor of Electronic Engineering Technology
-
 ## 🙏 Credits & Acknowledgements
 
 The base robot chassis design was adapted from an open-source project:
